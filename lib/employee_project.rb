@@ -1,0 +1,5 @@
+require File.join(File.dirname(__FILE__), "employee_project", "billing_department")
+require File.join(File.dirname(__FILE__), "employee_project", "employee")
+require File.join(File.dirname(__FILE__), "employee_project", "contract_employee")
+require File.join(File.dirname(__FILE__), "employee_project", "full_time_employee")
+require File.join(File.dirname(__FILE__), "employee_project", "paycheck")
